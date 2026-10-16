@@ -9,6 +9,10 @@ Reusable standards for building WordPress plugins and themes with Codex, ChatGPT
 4. Open the project in your coding agent and ask it to read `AGENTS.md` and relevant `docs/` files before coding.
 5. Implement incrementally and run configured checks. Never deploy generated code without review.
 
+## How to use it
+
+See [`docs/USAGE_GUIDE.md`](docs/USAGE_GUIDE.md) for setup instructions for Codex, Claude Code, ChatGPT workflows, project specifications, and reusable prompts.
+
 ## Contents
 - `AGENTS.md`: persistent coding-agent instructions
 - `docs/`: architecture, security, standards, testing and release guidance
